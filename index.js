@@ -1,5 +1,5 @@
 function Flow() {
-    return 'ioflow'
+    return 'redflow'
 }
 
 module.exports = {

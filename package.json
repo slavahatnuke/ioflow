@@ -1,24 +1,24 @@
 {
-  "name": "ioflow",
-  "version": "0.0.1",
-  "description": "ioflow",
+  "name": "redflow",
+  "version": "1.0.0",
+  "description": "redflow",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slavahatnuke/ioflow.git"
+    "url": "git+https://github.com/slavahatnuke/redflow.git"
   },
   "keywords": [
-    "ioflow"
+    "redflow"
   ],
-  "author": "slava hotnuke",
+  "author": "slava hatnuke",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/slavahatnuke/ioflow/issues"
+    "url": "https://github.com/slavahatnuke/redflow/issues"
   },
-  "homepage": "https://github.com/slavahatnuke/ioflow#readme",
+  "homepage": "https://github.com/slavahatnuke/redflow#readme",
   "dependencies": {
     "mocha": "^6.1.4"
   }
