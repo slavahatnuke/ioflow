@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/slavahatnuke/ioflow/issues"
   },
-  "homepage": "https://github.com/slavahatnuke/ioflow#readme"
+  "homepage": "https://github.com/slavahatnuke/ioflow#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
 }
