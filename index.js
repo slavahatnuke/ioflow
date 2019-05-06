@@ -1,1 +1,7 @@
-console.log('ioflow [wip]');
+function Flow() {
+    return 'ioflow'
+}
+
+module.exports = {
+    Flow
+}
